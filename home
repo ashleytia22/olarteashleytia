@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ashley Tia B. Olarte</title>
+  <style>
+    body {
+      font-family: "Cambria Math", cursive;
+      color: #FFFFFF; /* Text color */
+      background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fculturedvultures.com%2Fread-solo-leveling-online-free%2F&psig=AOvVaw1dUlziUOYxvIf7S1cpso3C&ust=1713722206865000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi4xc-u0YUDFQAAAAAdAAAAABAZ.jpg'); /* Background image */
+      background-size: cover;
+    }
+    
+    img {
+      max-width: 100%; /* Set the maximum width of the image to 100% of its container */
+      height: auto; /* Automatically adjust the height to maintain the image's aspect ratio */
+      display: block; /* Ensure the image is displayed as a block element */
+      margin: 0 auto; /* Center the image horizontally */
+      padding: 10px 0; /* Add some padding above and below the image */
+    }
+    
+    .container {
+      max-width: 800px; /* Set the maximum width of the container */
+      margin: 0 auto; /* Center the container */
+      padding: 20px; /* Add some padding around the container */
+    }
+    
+    h1, h2, h3, h4, h5 {
+      color: #FFFFFF; /* Heading text color */
+      font-family: "Helvetica", sans-serif; /* Heading font family */
+    }
+
+    p {
+      color: #FFFFFF; /* Paragraph text color */
+      font-size: 20px; /* Paragraph font size */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Excuse the rumors, let me introduce myself.</h1>
+    <img src="C:\Users\Glenmar Olarte\OneDrive\Documents\HTMLashley.jpeg" alt="Ashley's Picture">
+    <p>Hi, I'm Ashley Tia B. Olarte. I was born on February 22, 2002, so obviously I'm not that young anymore, but yeah, I don't care; I'm still a baby. Kidding.</p>
+    <p>I'm studying at Mindanao State University, a BAELS student learning how to make HTML. HAHAHAHAHAHA.</p>
+    <p>I live in Mabuhay, General Santos City. I was an extrovert, but right now, I consider myself an ambivert. I was an extrovert in high school, but right now, I am an introvert in college but an extrovert in other places.</p>
+    <p>My motto in life is that if the deadline is not today, then make it the next day because I'm a crammer queen. I was boyish, or you could say a Masc, but right now, I am also starting to love to be feminine. Oh, I love to be a woman!!! I want to learn how to do makeup and dress elegantly. I'm a Pisces, I'm a siren, a siren that doesn't know how to swim. According to my zodiac sign, I am sympathetic, committed, charismatic, loving, touchy, realistic, and forgetful, which is very true. That's why I forget how to be smart and confident. Oa.</p>
+    <h2>MY HOBBIES</h2>
+    <p>I love to read books, love to dance, and love to cry. Hahahahaha, I mean, I love to overreact, lol, according to them. I sometimes sing, especially when I need to save the world because it is very important.</p>
+    <p>I used to love writing stories, but I lost my writing skills and maybe realized that it was not for me anymore. My new hobby right now is to improve my acting skills, which is very challenging because it is very far from my old hobbies. I also love to watch series, movies, and anime. I love to rant but still do my responsibilities, lol, as a young adult.</p>
+    <h3>SKILLS</h3>
+    <p>I don't have any sports right now, but I used to be a taekwondo player and an Arnis practitioner. I was also a SPA dancer and a gymnast, and maybe acting would be my new skill if I mastered how to control my emotions because I sometimes have ahard time switching my emotions when I need to.</p>
+    <h4>MY ADDICTION</h4>
+    <p>So obviously, I'm obsessed with Mr. Sung Jin Woo and consider him one of my husbands. I'm also addicted to overthinking and ranting. I'm addicted to shared posts, lol. I'm addicted to listening to music because music is my life. I'm addicted to blue and black. I'm addicted to watching people and just being quiet. I'm addicted to coffee and sweets. I'm addicted to nature because it calms my mind.</p>
+    <h5>My Dream</h5>
+    <p>My dream is to travel the world, especially to South Korea, and have a happy and peaceful life with unlimited money. To be able to achieve that dream, I need money. I also dream that I could live the life that my family deserves a comfortable life. I dream of having a farm because I dream of having a horse. Okay, to end this work until you no longer have to introduce yourself.</p>
+  </div>
+</body>
+</html>
